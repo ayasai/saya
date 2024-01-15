@@ -88,6 +88,7 @@
     background: var(--primary);
     box-shadow: var(--shadow);
     display: grid;
+    justify-items: center;
     align-items: center;
     padding: 1.5rem;
   }
